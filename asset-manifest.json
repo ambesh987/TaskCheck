@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TaskCheck/static/css/main.58e5ad03.css",
+    "main.js": "/TaskCheck/static/js/main.0f9ad0d8.js",
+    "index.html": "/TaskCheck/index.html",
+    "main.58e5ad03.css.map": "/TaskCheck/static/css/main.58e5ad03.css.map",
+    "main.0f9ad0d8.js.map": "/TaskCheck/static/js/main.0f9ad0d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58e5ad03.css",
+    "static/js/main.0f9ad0d8.js"
+  ]
+}
