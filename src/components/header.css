@@ -24,17 +24,34 @@ header .logo span{
     color:#525252;
 }
 
-header .theme span{
+header .themeSelector span{
     height:20px;
     width:20px;
     border-radius: 50%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: inline-block;
     margin-left:5px;
 
 }
 
-header .theme .activeTheme{
+header .themeSelector .activeTheme{
     height:30px;
     width:30px;
+}
+
+.light{
+    background-color: lime;
+    transition: all 500ms;
+}
+.medium{
+    background-color: #EFEFEF;
+    transition: all 500ms;
+}
+.dark{
+    background-color: #15202B;
+    transition: all 500ms;
+}
+.gOne{
+    background: linear-gradient(90deg, hsla(191, 75%,60%,1) 0%, hsla(248,87%,36%,1) 100%);
+    transition: all 500ms;
 }
